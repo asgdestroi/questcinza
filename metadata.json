@@ -1,0 +1,5 @@
+{
+  "name": "Questionário Cidade Cinza",
+  "description": "Um questionário interativo sobre o documentário 'Cidade Cinza', permitindo que alunos respondam perguntas e recebam uma nota. Os resultados são armazenados para visualização do administrador.",
+  "requestFramePermissions": []
+}
